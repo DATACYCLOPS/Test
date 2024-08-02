@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:/"
+		},
+		{
+			"path": "../Snicks"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "D:"
+	}
+}
